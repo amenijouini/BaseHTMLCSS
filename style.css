@@ -1,0 +1,17 @@
+/*je suis un commentaire  css */
+body{
+    color: black;
+}
+
+h2{
+    color:red;
+}
+.premierp{
+    color: green;
+}
+#deuxiemep{
+    color: salmon;
+}
+.mottitre{
+    color: purple;
+}
